@@ -1,0 +1,15 @@
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\bin\Debug\Bijan_Bazaz_Tic-Tac-Toe.exe.config
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\bin\Debug\Bijan_Bazaz_Tic-Tac-Toe.exe
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\bin\Debug\Bijan_Bazaz_Tic-Tac-Toe.pdb
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.TicTacToe.resources
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.Form2.resources
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.GameMenu.resources
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.exe
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic-Tac-Toe.pdb
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.Mode_de_jeux.resources
+C:\Users\Bijan\OneDrive\Desktop\Bijan_Bazaz_Tic-Tac-Toe_Safetosaveurwork-master\Bijan_Bazaz_Tic-Tac-Toe\obj\Debug\Bijan_Bazaz_Tic_Tac_Toe.ordinateur.resources
